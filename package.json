@@ -3,8 +3,8 @@
     "version": "0.0.1",
     "description": "시퀄라이즈를 배우자",
     "main": "app.js",
-    "script": {
-        "satst": "nodemon app"
+    "scripts": {
+        "start": "nodemon app"
     },
     "author": "by8847",
     "license": "UNLICENSED",
